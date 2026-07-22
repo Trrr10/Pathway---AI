@@ -116,6 +116,3 @@ Teachers can conduct online mentoring sessions with students using integrated vi
 ---
 
 
-```bash
-npm run dev
-```
